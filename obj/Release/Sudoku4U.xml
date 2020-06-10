@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Sudoku4U
+</name>
+</assembly>
+<members>
+<member name="M:Sudoku4U.App.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:Sudoku4U.Page1.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:Sudoku4U.About.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="P:Sudoku4U.App.RootFrame">
+	<summary>
+ Provides easy access to the root frame of the Phone Application.
+ </summary>
+	<returns>The root frame of the Phone Application.</returns>
+</member><member name="M:Sudoku4U.App.#ctor">
+	<summary>
+ Constructor for the Application object.
+ </summary>
+</member><member name="M:Sudoku4U.MainPage.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>
